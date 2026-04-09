@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:7C3AED&height=200&section=header&text=GUENDEHOU%20Larissa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1A56DB&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%8C%8D;AI+%26+ML+Engineer+%7C+Benin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
 
