@@ -40,14 +40,14 @@ larissa = {
 
 ## 🚀 Featured Projects
 
-|Project                     |Description                                     |Stack                     |Status       |
-|----------------------------|------------------------------------------------|--------------------------|-------------|
-|🏦 **Fraud Detection**       |284K transactions • XGBoost • SMOTE • F1 > 0.85 |Python, Sklearn, Streamlit|✅ Deployed   |
-|🛒 **Customer Segmentation** |RFM Analysis • K-Means++ • DBSCAN • t-SNE       |Python, Sklearn, Plotly   |✅ Done       |
-|🏠 **House Price Prediction**|Ridge • Lasso • ElasticNet • Random Forest      |Python, Sklearn           |✅ Done       |
-|📊 **A/B Testing Analysis**  |Z-test • Sanity Check • Statistical Significance|Python, SciPy             |✅ Done       |
-|📺 **Netflix EDA (×2)**      |Distributions • Correlations • Business Insights|Python, Seaborn           |✅ Done       |
-|🧬 **Breast Cancer Survival**|XGBoost Survival • SHAP • Kaplan-Meier          |Python, lifelines         |🔄 In Progress|
+|Project                     |Description                                     |Stack                    
+|----------------------------|------------------------------------------------|--------------------------|
+|🏦 **Fraud Detection**       |284K transactions • XGBoost • SMOTE • F1 > 0.85 |Python, Sklearn, Streamlit|
+|🛒 **Customer Segmentation** |RFM Analysis • K-Means++ • DBSCAN • t-SNE       |Python, Sklearn, Plotly   |
+|🏠 **House Price Prediction**|Ridge • Lasso • ElasticNet • Random Forest      |Python, Sklearn           |
+|📊 **A/B Testing Analysis**  |Z-test • Sanity Check • Statistical Significance|Python, SciPy             |
+|📺 **Netflix EDA**          |Distributions • Correlations • Business Insights|Python, Seaborn           |
+|🧬 **Breast Cancer Survival**|XGBoost Survival • SHAP • Kaplan-Meier          |Python, lifelines,Sksurv,Gradio|
 
 -----
 
@@ -58,7 +58,8 @@ larissa = {
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 **Machine Learning**
 
@@ -66,6 +67,7 @@ larissa = {
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-survival](https://img.shields.io/badge/scikit--survival-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Data & Visualization**
 
@@ -106,23 +108,7 @@ larissa = {
 
 </div>
 
------
 
-## 🏆 Achievements & Community
-
-<div align="center">
-
-|🌍 Community                      |📅 Year|🎯 Role     |
-|---------------------------------|------|-----------|
-|WiDS Datathon — Stanford × Kaggle|2026  |Participant|
-|Deep Learning Indaba             |2026  |Candidate  |
-|EEIA — Fondation Vallet × PNUD   |2026  |Selected   |
-|Zindi Africa                     |2026  |Member     |
-|DataCamp x iSHEERO               |2026  |Scholar    |
-
-</div>
-
------
 
 ## 📫 Let’s Connect
 
