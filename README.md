@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%8C%8D;AI+%26+ML+Engineer+%7C+IFRI+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;WiDS+2026+%E2%80%A2+Deep+Learning+Indaba+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%8C%8D;AI+%26+ML+Engineer+%7C+IFRI+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
 
 <br/>
 
@@ -43,11 +43,11 @@ larissa = {
 |Project                     |Description                                     |Stack                    
 |----------------------------|------------------------------------------------|--------------------------|
 |🏦 **Fraud Detection**       |284K transactions • XGBoost • SMOTE • F1 > 0.85 |Python, Sklearn, Streamlit|
-|🛒 **Customer Segmentation** |RFM Analysis • K-Means++ • DBSCAN • t-SNE       |Python, Sklearn, Plotly   |
+|🛒 **Customer Segmentation** |RFM Analysis • K-Means++ • DBSCAN • t-SNE  • CAH |Python, Sklearn, Plotly   |
 |🏠 **House Price Prediction**|Ridge • Lasso • ElasticNet • Random Forest      |Python, Sklearn           |
 |📊 **A/B Testing Analysis**  |Z-test • Sanity Check • Statistical Significance|Python, SciPy             |
 |📺 **Netflix EDA**          |Distributions • Correlations • Business Insights|Python, Seaborn           |
-|🧬 **Breast Cancer Survival**|XGBoost Survival • SHAP • Kaplan-Meier          |Python, lifelines,Sksurv,Gradio|
+|🧬 **Breast Cancer Survival**|Random Forest Survival • SHAP • Kaplan-Meier • Cox|Python, lifelines,Sksurv,Gradio|
 
 -----
 
@@ -114,10 +114,8 @@ larissa = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-guendehou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/larissa-guendehou-184616321)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guendehoularissa832@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/larissaguendehou)
-[![Zindi](https://img.shields.io/badge/Zindi-1A56DB?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa)
 
 <!-- À ajouter quand disponibles -->
 
@@ -135,6 +133,5 @@ larissa = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1A56DB&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*“Commit tes œuvres à l’Éternel, et tes projets réussiront.”* — Proverbes 16:3 🙏🏾
 
 </div>
