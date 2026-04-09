@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:7C3AED&height=200&section=header&text=GUENDEHOU%20Larissa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:7C3AED&height=200&section=header&text=GUENDEHOU%20Larissa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%8C%8D;AI+%26+ML+Engineer+%7C+Benin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
 
-<!-- Typing animation -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+real-world+impact+%F0%9F%8C%8D;AI+%26+ML+Engineer+%7C+IFRI+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
-
-<br/>
+</div>
 
 <!-- Profile views + followers -->
 
@@ -19,24 +15,12 @@
 
 -----
 
-## 👩🏾‍💻 About Me
+## Profil
 
-```python
-larissa = {
-    "name"       : "GUENDEHOU Larissa",
-    "role"       : "AI & Data Science Engineer",
-    "education"  : "BSc AI & Data Science — IFRI, Université d'Abomey-Calavi 🇧🇯",
-    "mission"    : "Building intelligent systems that create real-world impact",
-    "currently"  : ["Breast Cancer Survival Analysis 🧬",
-                    "WiDS Datathon 2026 🌍",
-                    "Gemma 4 Good Challenge 🤖"],
-    "communities": ["WiDS 2026", "Deep Learning Indaba 2026", "EEIA 2026", "Zindi Africa"],
-    "goal"       : "MSc in AI — UK 🇬🇧 or France 🇫🇷 | 2027",
-    "fun_fact"   : "I debug with faith and coffee ☕🙏🏾"
-}
-```
-
------
+- Nom: GUENDEHOU Larissa
+- Rôle: AI & Data Science Engineer
+- Formation: BSc AI & Data Science
+- Mission: Building intelligent systems that create real-world impact
 
 ## 🚀 Featured Projects
 
